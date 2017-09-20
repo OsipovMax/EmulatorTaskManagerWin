@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-emitationWindows-Desktop_Qt_5_5_0_MinGW_32bit-Debug/Kurs.txt</file>
+        <file>Kurs.txt</file>
+        <file>allprocess.cpp</file>
+        <file>allprocess.h</file>
+        <file>dialog.cpp</file>
+        <file>dialog.h</file>
+        <file>dialog1.cpp</file>
+        <file>dialog1.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>menu.cpp</file>
+        <file>menu.h</file>
+        <file>panel.cpp</file>
+        <file>panel.h</file>
+        <file>proces.cpp</file>
+        <file>proces.h</file>
+    </qresource>
+</RCC>
